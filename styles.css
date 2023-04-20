@@ -1,0 +1,21 @@
+.myHeading {
+  text-align: center;
+  font-size: 3rem;
+}
+.container {
+  margin: 0 0;
+}
+.heading {
+  background-color: antiquewhite;
+  padding: 10px 0;
+  padding: 2% 0;
+}
+.mainContainer {
+  margin: 0;
+}
+.evidenceLabel {
+  padding: 3% 0 1% 0;
+}
+.button {
+  margin: 3% 0;
+}
